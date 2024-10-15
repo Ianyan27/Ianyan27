@@ -38,12 +38,14 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ianyan27&show_icons=true&theme=default&locale=en" alt="ianyan27" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianyan27&theme=default" alt="ianyan27" />
-</p>
+<div style="display:flex; justify-content: center; align-items: center;">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ianyan27&show_icons=true&theme=default&locale=en" alt="ianyan27" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianyan27&theme=default" alt="ianyan27" />
+    </p>
+</div>
 
 ### 🌐 Connect with Me
 <p align="left">
